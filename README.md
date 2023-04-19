@@ -1,2 +1,2 @@
 # Projects
-This folder consists of my projects involving various technologies
+This is a repo for expense tracker project
